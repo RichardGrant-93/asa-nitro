@@ -15,12 +15,12 @@
     "tabs": [
       {
         "tab1": {
-          "layout": 1,
+          "layout": 2,
           "buttontext": "Community",
           "title1": "About",
           "text1": "Follow the rules",
           "title2": "Rules",
-          "text2": "Weekend Raids starting at 6PM EST\nNo Wipes, minimal rollbacks, maximum performance.\nHaving an issue? Create a ticket in discord.\n\nIncursiones de fin de semana a partir de las 6 p.m. EST\nSin toallitas, retrocesos mínimos, máximo rendimiento.\n¿Tiene algún problema? Crea un ticket en discordia.\n\nWochenend-Raids beginnen um 18:00 Uhr EST\nKeine Serverlöschungen, minimale Rollbacks, maximale Leistung.\nHaben Sie ein Problem? Erstelle ein Ticket in Discord.\n\nการจู่โจมช่วงสุดสัปดาห์เริ่มเวลา 18.00 น. EST\nไม่มีการเช็ด ย้อนกลับน้อยที่สุด ประสิทธิภาพสูงสุด\nมีปัญหาใช่ไหม? สร้างตั๋วด้วยความไม่ลงรอยกัน",
+          "text2": "Weekend Raids starting at 6PM EST\nNo Wipes, minimal rollbacks, maximum performance.\nHaving an issue? Create a ticket in discord.\n\nIncursiones de fin de semana a partir de las 6 p.m. EST\nSin toallitas, retrocesos mínimos, máximo rendimiento.\n¿Tiene algún problema? Crea un ticket en discordia.\n\nWochenend-Raids beginnen um 18:00 Uhr EST\nKeine Serverlöschungen, minimale Rollbacks, maximale Leistung.\nHaben Sie ein Problem? Erstelle ein Ticket in Discord.",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
